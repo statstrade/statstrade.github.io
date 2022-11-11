@@ -1,1 +1,1 @@
-# statstrade.github.io
+# cdn.statstrade.io
